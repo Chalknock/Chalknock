@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KEITHANGELO
-- 👀 I’m interested in Arduino, RPi, Machine Learning
-- 🌱 I’m currently learning Web Development, Machine Learning and Computer Vision
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Arduino, RPi, Machine Learning, Web Development, Machine Learning and Computer Vision
 - 📫 How to reach me ...
 
 <!---
