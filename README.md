@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @KEITHANGELO
+- Mobile and web developer
 - 👀 I’m interested in Arduino, RPi, Machine Learning, Web Development, Machine Learning and Computer Vision
 - 📫 How to reach me ...
 
