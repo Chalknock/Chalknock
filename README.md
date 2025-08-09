@@ -33,7 +33,7 @@ I'm a Computer Engineer with hands-on experience in **mobile and web application
 `Dart` `JavaScript` `Python` `C/C++` `Flutter` `React.js` `Node.js`
 
 **Platforms & Tools**  
-`Raspberry Pi` `ESP32` `Node-RED` `Firebase` `MongoDB` `PostgreSQL` `Leaflet` `QGIS` `Git`
+`Raspberry Pi` `ESP32` `Node-RED` `Firebase` `MongoDB` `Leaflet` `QGIS` `Git`
 
 **DevOps & Hosting**  
 `Linux` `Nginx` `Docker` `GCP` `Tailscale` `Cloudflare Tunnel`
