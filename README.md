@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keith Angelo Tumaneng— Computer Engineer
 
-I'm a Computer Engineer with hands-on experience in **mobile and web application development**, **IoT systems**, and **GIS-based platforms**. I enjoy building smart, efficient, and scalable tech solutions—from user-facing apps to embedded systems.
+Full-stack developer and computer engineer with 3 years of experience building web, mobile, and IoT applications. Skilled in Django, React.js, and Flutter, I design scalable backend systems, intuitive frontends, and real-time IoT solutions. I’ve developed GIS-based renewable energy platforms, post-earthquake inspection apps, and automated aquatic life support systems, bridging software, hardware, and data to solve real-world problems. Passionate about creating high-performance, user-friendly applications that drive efficiency, resilience, and sustainability.
 
 ---
 
