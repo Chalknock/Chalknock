@@ -162,19 +162,21 @@ The system collects real-time water parameters and controls connected equipment 
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Chalknock&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Keith's GitHub statistics"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalknock&layout=compact&hide_border=true"
-    alt="Keith's most used languages"
-    height="165"
-  />
+  <a href="https://github.com/Chalknock">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Chalknock&hide_border=true"
+      alt="Keith's GitHub contribution streak"
+    />
+  </a>
 </p>
 
-> GitHub language statistics only reflect public repositories and do not represent all of my professional experience.
+<p align="center">
+  <a href="https://github.com/Chalknock?tab=overview">
+    View my complete contribution activity on GitHub
+  </a>
+</p>
+
+> Most of my professional contributions are in private repositories and may not appear in my public GitHub activity.
 
 ---
 
