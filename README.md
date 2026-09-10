@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I design and build practical web, mobile, automation, GIS, and IoT systems that solve real-world problems.
+  I build practical web, mobile, automation, GIS, and IoT systems that solve real-world problems.
 </p>
 
 <p align="center">
@@ -20,19 +20,16 @@
 
 ## About Me
 
-I'm a software engineer and computer engineer from the Philippines with **3+ years of professional experience** building and maintaining production web, mobile, data-driven, GIS, and IoT applications.
+Software and computer engineer from the Philippines with **3+ years of professional experience** building and maintaining production web, mobile, data-driven, GIS, and IoT applications.
 
-My work spans full-stack development, backend architecture, workflow automation, data visualization, PDF reporting, cloud integrations, offline-first applications, and production support.
+My work spans full-stack development, backend architecture, workflow automation, data visualization, PDF reporting, cloud integrations, offline-first applications, and production support. I enjoy turning complex requirements into software that is maintainable, reliable, and easy to use.
 
-I enjoy transforming complex requirements into software that is maintainable, reliable, and easy to use.
-
-- 💻 Building applications with **Python, Django, TypeScript, React, Next.js, Node.js, and Flutter**
+- 💻 Building with **Python, Django, TypeScript, React, Next.js, Node.js, and Flutter**
 - 🏗️ Designing backend systems, business workflows, APIs, and data models
 - 📱 Developing cross-platform and offline-first mobile applications
+- 🌍 Working across GIS, sustainability, inspection, monitoring, and civic technology
+- 🔌 Comfortable across software, infrastructure, hardware, and IoT integrations
 - 🤖 Exploring AI-assisted development, local AI, and workflow automation
-- 🌍 Experienced in GIS, sustainability, inspection, monitoring, and civic technology
-- 🔌 Comfortable working across software, infrastructure, hardware, and IoT integrations
-- 📚 Improving my knowledge of system design, advanced Python, algorithms, distributed systems, and cloud automation
 
 ---
 
@@ -40,85 +37,65 @@ I enjoy transforming complex requirements into software that is maintainable, re
 
 ### Sustainability and ESG Reporting Platform
 
-An enterprise platform for collecting, reviewing, approving, and generating environmental, social, and governance disclosures.
+Enterprise platform for collecting, reviewing, approving, and publishing environmental, social, and governance disclosures.
 
-**Key contributions:**
+- Multi-level submission and approval workflows with role-based permissions and notifications
+- Reporting modules for GRI, SASB, IFRS, and other sustainability frameworks
+- Facility-level emissions, energy, water, waste, and disclosure tracking
+- Automated PDF reports with cover pages, tables of contents, and framework-specific sections
+- SFTP and MQTT pipelines for automated data ingestion, plus deployment and production support
 
-- Developed multi-level data submission and approval workflows
-- Built reporting modules for GRI, SASB, IFRS, and other sustainability frameworks
-- Implemented facility-level emissions, energy, water, waste, and disclosure tracking
-- Created automated PDF reports with cover pages, tables of contents, structured tables, and framework-specific sections
-- Built role-based permissions, notifications, submission, approval, and return workflows
-- Integrated SFTP and MQTT pipelines for automated data ingestion and processing
-- Supported deployment, monitoring, production issues, and application maintenance
-
-**Technologies:** Django, Django REST Framework, MySQL, JavaScript, Bootstrap, Highcharts, ReportLab, AWS S3, MQTT, SFTP, Linux, Nginx
+**Stack:** Django · DRF · MySQL · JavaScript · Highcharts · ReportLab · AWS S3 · MQTT · Nginx
 
 ---
 
 ### Bantay Proyekto
 
-An offline-first mobile inspection and accountability platform designed for infrastructure and construction projects.
+Offline-first mobile inspection and accountability platform for infrastructure and construction projects.
 
-**Key features:**
-
-- Structured project inspections and configurable checklists
-- GPS-tagged photo documentation
-- Offline SQLite storage for field operations
-- Deficiency, billing, progress, and red-flag monitoring
-- Detection of project delays and progress discrepancies
+- Structured inspections with configurable checklists and GPS-tagged photo documentation
+- Offline SQLite storage with sync, built for field work in low-connectivity areas
+- Deficiency, billing, progress, and red-flag monitoring with delay and discrepancy detection
 - Role-based workflows for inspectors, supervisors, and administrators
 - PDF inspection and project reporting
-- Synchronization support for remote data storage
 
-**Technologies:** Flutter, Dart, SQLite, Firebase
+**Stack:** Flutter · Dart · SQLite · Firebase
 
 ---
 
 ### Post-Earthquake Building Inspection App
 
-A mobile application for rapid post-disaster building assessment and field data collection.
+Mobile app for rapid post-disaster building assessment. Helps inspectors document structural conditions, complete assessment forms, and capture location data to speed up decision-making after earthquake events.
 
-The application helps inspectors document structural conditions, complete assessment forms, collect location-based information, and support faster decision-making after earthquake events.
-
-**Technologies:** Flutter, Dart, JavaScript, GIS tools
+**Stack:** Flutter · Dart · JavaScript · GIS tooling
 
 ---
 
 ### Renewable Energy Inventory System
 
-A GIS-integrated web platform for managing and visualizing renewable energy resources and infrastructure.
+GIS-integrated web platform for managing and visualizing renewable energy resources and infrastructure. I built the frontend and geospatial features that surface facilities, assets, and location data on interactive maps.
 
-I contributed to frontend development and geospatial functionality for displaying renewable energy facilities, assets, and location-based information through interactive maps.
-
-**Technologies:** React, JavaScript, Leaflet, QGIS
+**Stack:** React · JavaScript · Leaflet · QGIS
 
 ---
 
 ### Automated Aquatic Life Support System
 
-An IoT-based monitoring and automation platform for maintaining aquatic environmental conditions.
+IoT monitoring and automation platform that maintains aquatic environmental conditions, reading real-time water parameters from connected sensors and driving equipment through configurable automation rules.
 
-The system gathers real-time water parameters from connected sensors and controls equipment using configurable automation rules.
-
-**Technologies:** Raspberry Pi, ESP32, Node-RED, MQTT, sensors, relays, and control hardware
+**Stack:** Raspberry Pi · ESP32 · Node-RED · MQTT · sensor and relay hardware
 
 ---
 
 ### Personal Expense Tracker
 
-A full-stack expense management application for tracking personal expenses, categories, and monthly financial activity.
+Full-stack expense management app for tracking spending, categories, and monthly financial activity.
 
-**Key features:**
+- Authentication with per-user backend data access
+- Expense and category management with monthly and annual reports
+- Interactive charts, spending summaries, filtering, and pagination
 
-- User authentication and protected data
-- Expense and category management
-- Monthly and annual financial reports
-- Interactive charts and spending summaries
-- Pagination, filtering, and responsive interfaces
-- Per-user backend data access
-
-**Technologies:** React, Django REST Framework, PostgreSQL, Recharts
+**Stack:** React · Django REST Framework · PostgreSQL · Recharts
 
 ---
 
@@ -144,7 +121,7 @@ A full-stack expense management application for tracking personal expenses, cate
 ### Backend and Databases
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -174,39 +151,23 @@ A full-stack expense management application for tracking personal expenses, cate
 
 ---
 
-## Engineering Focus
+## Currently Exploring
 
-```text
-Backend Engineering        Full-Stack Development
-System Design              Mobile Development
-Workflow Automation        AI-Assisted Development
-Cloud Infrastructure       Offline-First Applications
-IoT and Edge Computing     GIS Applications
-Developer Tooling          Civic Technology
-```
-
----
-
-## What I'm Currently Exploring
-
-- Building full-stack applications with TypeScript, Next.js, Node.js, PostgreSQL, and Prisma
-- Designing maintainable backend architectures and APIs
-- Developing offline-first mobile applications with Flutter
+- Full-stack applications with TypeScript, Next.js, Node.js, PostgreSQL, and Prisma
+- Maintainable backend architectures, API design, and event-driven systems
+- Offline-first mobile applications with Flutter
 - Integrating local and cloud-based AI into practical software products
-- Event-driven architecture and background-processing systems
 - Production observability, infrastructure, and deployment automation
-- AI-assisted software development workflows
 
 ---
 
-## Engineering Principles
+## How I Work
 
 - Build maintainable software before clever software
 - Prefer clear architecture and understandable code
 - Automate repetitive and error-prone processes
-- Design systems around actual user and business requirements
+- Design around actual user and business requirements
 - Treat reliability, security, and usability as core features
-- Continuously improve through building, testing, and learning
 
 ---
 
@@ -214,27 +175,45 @@ Developer Tooling          Civic Technology
 
 <p align="center">
   <a href="https://github.com/Chalknock">
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Chalknock&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-      alt="Keith's GitHub statistics"
-    />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api?username=Chalknock&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark"
+      />
+      <img
+        height="165"
+        src="https://github-readme-stats.vercel.app/api?username=Chalknock&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+        alt="Keith's GitHub statistics"
+      />
+    </picture>
   </a>
   <a href="https://github.com/Chalknock">
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalknock&layout=compact&hide_border=true"
-      alt="Keith's most used public repository languages"
-    />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalknock&layout=compact&hide_border=true&theme=github_dark"
+      />
+      <img
+        height="165"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalknock&layout=compact&hide_border=true"
+        alt="Keith's most used public repository languages"
+      />
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Chalknock">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Chalknock&hide_border=true"
-      alt="Keith's GitHub contribution streak"
-    />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://streak-stats.demolab.com/?user=Chalknock&hide_border=true&theme=github-dark-blue"
+      />
+      <img
+        src="https://streak-stats.demolab.com/?user=Chalknock&hide_border=true"
+        alt="Keith's GitHub contribution streak"
+      />
+    </picture>
   </a>
 </p>
 
